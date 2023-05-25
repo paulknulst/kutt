@@ -6,7 +6,7 @@
 
 _Contributions and bug reports are welcome._
 
-[https://kutt.it](https://kutt.it)
+[https://at0m.de](https://at0m.de)
 
 [![Build Status](https://travis-ci.org/thedevs-network/kutt.svg?branch=v2-beta)](https://travis-ci.org/thedevs-network/kutt)
 [![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/thedevs-network/kutt/#contributing)
